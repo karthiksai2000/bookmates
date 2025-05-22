@@ -1,6 +1,3 @@
-Here's a **redesigned version** of your `Bookmates` project documentation with **clean structure**, **search/filter enhancements** for the *Browse Books* feature, and improved formatting for readability and professional appeal:
-
----
 
 # 📚 **Bookmates** – Share. Discover. Connect.
 
@@ -160,6 +157,3 @@ An academic project aimed at promoting reading and community sharing.
 This project is free for **educational** and **non-commercial** use.
 Feel free to **contribute**, **adapt**, or **share**.
 
----
-
-Would you like me to generate the `search.php` backend code or the updated `browse-books.html` page with integrated filter/search?
